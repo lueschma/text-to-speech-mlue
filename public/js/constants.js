@@ -1,7 +1,7 @@
 
 /* CONSTANT VALUES */
 
-/* exported spanishText frenchText englishExpressiveText spanishSSML frenchSSML englishExpresiveSSML */
+/* exported spanishText frenchText englishExpressiveText spanishSSML frenchSSML englishExpresiveSSML test */
 
 // Sample text values
 var spanishText = "Consciente de su patrimonio espiritual y moral, la Unión está fundada sobre los valores indivisibles y universales de la dignidad humana, la libertad, la igualdad y la solidaridad, y se basa en los principios de la democracia y el Estado de Derecho. Al instituir la ciudadanía de la Unión y crear un espacio de libertad, seguridad y justicia, sitúa a la persona en el centro de su actuación.",
